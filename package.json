@@ -1,0 +1,11 @@
+{
+  "name": "bird-bot",
+  "version": "1.0.0",
+  "description": "Bird bot",
+  "main": "src/app.js",
+  "author": "QuantumSheep",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "mongoose": "^5.2.15"
+  }
+}

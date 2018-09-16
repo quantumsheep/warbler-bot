@@ -1,2 +1,5 @@
-# warbler-bot
-Statistic Discord bot - Know your server's stats 🔎📰
+# Informations
+Warbler is a Discord bot that give you informations and statistics about your server.
+
+## Supported languages
+- French
